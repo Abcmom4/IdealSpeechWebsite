@@ -36,6 +36,15 @@ $link-hover-decoration: none;
 
 // Hacks
 
+.hero_figure img {
+    border-radius: 15px 50px 30px;
+    -webkit-mask: none !important;
+}
+
+.footer__cta {
+    padding: 80px 80px !important;
+}
+
 // Fix displaying SVG header logo
 .navbar-brand {
     img {
