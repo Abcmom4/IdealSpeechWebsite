@@ -36,6 +36,16 @@
   </div>
 </header>
 
+{{ if .Content }}
+<section style="padding-top: 3em;">
+  <div class="container">
+    <div class="text-center">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{ $address := .Site.Params.address }}
 <section class="section contact__info">
   <div class="container">
@@ -108,6 +118,7 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
+      {{ if .Site.Params.formspreeURL }}
       <div class="col-lg-6">
         <div class="contact-form-title">
           <h3>Contact Form</h3>
@@ -169,13 +180,15 @@
 
         </div>
       </div>
-      <!--
+      {{ end }}
+
+      {{ if .Site.Params.map.latitude }}
       <div class="col-lg-6">
         {{ $map := .Site.Params.map }}
         <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
         </div>
       </div>
-      -->
+      {{ end }}
     </div>
   </div>
 </section>
