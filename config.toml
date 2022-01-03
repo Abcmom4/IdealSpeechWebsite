@@ -25,11 +25,11 @@ url = "/"
 weight = 1
 [[menu.sitemap]]
 name = "Contact"
-url = "contact"
+url = "/contact"
 weight = 2
 [[menu.sitemap]]
-name = "ASHA Certification"
-url = "https://apps.asha.org/eweb/ashadynamicpage.aspx?site=ashacms&webcode=cccresultsv2&account=&lname=Cesar&fname=Amy&state=Massachusetts&country=United%20States"
+name = "Pricing"
+url = "/portfolio/service-pricing/"
 weight = 3
 
 [params]
