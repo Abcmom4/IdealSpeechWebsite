@@ -12,7 +12,7 @@ content: >
   I have extensive experience providing fun, evidenced-based speech language therapy services and a passion for working with children and their caregivers to provide ideal outcomes for each individual. 
 
 button1Name: Contact Me
-button2Name: Full Resume
+#button2Name: Full Resume
 button1Target: contact
-button2Target: contact
+#button2Target: contact
 image: images/about/about-img.jpg
