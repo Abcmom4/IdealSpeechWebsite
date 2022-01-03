@@ -2,26 +2,57 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  * Questions about your Child's speech and language abilities?
+
+  * Is your child currently receiving speech therapy at school and you want to maximize progress?
+
+  * Are you looking to continue progress for your child over the summer months?
+
+
+  ##### I can help!
+
+  Contact me and we can discuss your child's needs. I offer evidence-based speech and language therapy, consultations and screenings in the comfort of your own home via teletherapy. 
+
+
 service:
   - content: >
-      #### UI/UX Design 
+      #### Individual Therapy
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      Sessions are 30-45 minutes and designed to be specific to your child's individual needs. Areas of intervention include:
+        * Speech/articulation
+        * Fluency/stuttering
+        * Phonological Processing/Pre-Literacy 
+        * Receptive language
+        * Expressive language
+        * Developmental Language Disorder
+        * Pragmatic Language 
+
+    icon: fa-comments-o
   - content: >
-      #### Web Development 
+      #### Social Communication Group Therapy
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
+      Sessions are 45 minutes for 6-8 weeks with group size capped at four participants. The ultimate goal of the social language group is to increase your child's ability to make and maintain meaningful friendships. 
+      
+      
+      During sessions, participants will learn and practice specific skills related to the following skills:
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
+        * Conversation skills
+        * Perspective taking
+        * Working together in a group
+        * Problem solving
+        * Flexible mindset 
+        * Empathy 
+        * Nonverbal communication 
+
+
+      Read our article on [group therapy development](/blog/group-therapy-benefits/) for more information.
+
+    icon: fa-users
+#  - content: >
+#      #### Creative Design 
+#
+#      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+#      tempor invidunt ut labore et dolore magna aliquyam erat.
+#    image: images/service/creative.svg
