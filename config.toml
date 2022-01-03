@@ -7,8 +7,12 @@ title = "Ideal Speech Therapy"
 # Main Menu
 [[menu.main]]
 name = "Home"
-#url = "#home"
+url = "/"
 weight = 1
+[[menu.main]]
+name = "Services"
+url = "/#service"
+weight = 2
 [[menu.main]]
 name = "Contact"
 url = "/contact"
