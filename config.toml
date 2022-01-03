@@ -37,17 +37,22 @@ footerLogo = "images/asha-ccc-slp-color.svg"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.svg"
 
+
+[params.navBar.bigButton]
+name = "Schedule a Consult"
+url = "contact"
+
 [params.address]
 address = "The comfort of your home"
 email = "amy@idealspeechtherapy.com"
 openingHours = "Summer Weekdays 9AM - 5PM"
-phone = "+1 781 123 4567"
+phone = "+(781) 462-1269"
 
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+#[params.map]
+#APIkey = "YOUR GOOGLE MAP API"
+#latitude = "23.7783741"
+#longitude = "90.3746808"
+#pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
