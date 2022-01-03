@@ -2,7 +2,7 @@
 title: "Social Communication Group Therapy"
 date: 2022-01-03T00:12:35+05:00
 #featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
+postImage: images/portfolio/socializing-kids.jpg
 ---
 
 ### How can Social Communication Group Therapy help your child?
