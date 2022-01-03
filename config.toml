@@ -31,15 +31,17 @@ weight = 3
 [params]
 #blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Ideal Speech Therapy"
+copyright = "All right reserved copyright © 2022 Ideal Speech Therapy"
 footerLogo = "images/asha-ccc-slp-color.svg"
 #formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.svg"
 
+[params.footer]
+cta = "Schedule a Consultation"
 
 [params.navBar.bigButton]
-name = "Schedule a Consult"
+name = "Schedule a Consultation"
 url = "contact"
 
 [params.address]
