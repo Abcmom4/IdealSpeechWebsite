@@ -10,7 +10,7 @@ services:
   - >
     ### Individual Therapy
 
-    In your home (servicing Melrose, MA), or teletherapy
+    Teletherapy
     
     
     30 or 45 minutes - $80-$100/session
