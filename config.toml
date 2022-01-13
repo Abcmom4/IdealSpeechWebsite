@@ -63,17 +63,17 @@ phone = "+(781) 462-1269"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/profile.php?id=100076983559228"
 weight = 1
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 2
-[[params.social]]
-icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
-weight = 3
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 4
+#[[params.social]]
+#icon = "fa-linkedin-square"
+#url = "https://www.linkedin.com/"
+#weight = 2
+#[[params.social]]
+#icon = "fa-pinterest-square"
+#url = "https://www.pinterest.com/"
+#weight = 3
+#[[params.social]]
+#icon = "fa-twitter-square"
+#url = "https://twitter.com/"
+#weight = 4
