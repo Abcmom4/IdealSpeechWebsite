@@ -45,8 +45,8 @@ logo = "images/site-navigation/logo.svg"
 cta = "Schedule a Consultation"
 
 [params.navBar.bigButton]
-name = "Schedule a Consultation"
-url = "contact"
+name = "Client Login"
+url = "https://portal.idealspeechtherapy.com"
 
 [params.address]
 address = "The comfort of your home"
